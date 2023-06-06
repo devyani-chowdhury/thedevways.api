@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/thedevways.api/.vs
+/thedevways.api/thedevways.api/bin/Debug/net6.0
+/thedevways.api/thedevways.api/obj
